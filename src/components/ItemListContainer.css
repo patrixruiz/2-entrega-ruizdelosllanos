@@ -1,0 +1,12 @@
+body{
+    height: 100%;
+}
+.texto{
+    margin: 30px;
+    text-align: center;
+}
+
+.imagenCiclo img{
+    width: 100%;
+    height: 10%;
+}
