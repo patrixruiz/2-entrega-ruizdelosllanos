@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: center;
     border-radius: 10px;
-    border: var(--bs-btn-border-width) solid #f8f9fa;
+    border: var(--bs-btn-border-width) solid #f51458;
     padding: 8px;
 }
 .cartWidget button h5{
